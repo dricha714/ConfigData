@@ -1,0 +1,9 @@
+---
+spring:
+  profiles: east
+ lucky-word: Clover
+ 
+ ---
+ spring:
+  profiles: west
+ lucky-word: Sonics Foot
